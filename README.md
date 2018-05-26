@@ -25,6 +25,8 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 
 [Learn to Fly 2](https://github.com/Penguin4Games/learn-to-fly-2)
 
+[Run 3](https://github.com/Penguin4Games/run-3)
+
 Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1) to request them.
 
 ## Changelog
