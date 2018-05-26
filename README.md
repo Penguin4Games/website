@@ -20,9 +20,9 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 
 [Flappy Bird](https://github.com/Penguin4Games/flappy-bird)
 
-Learn to Fly 1
+[Learn to Fly 1](https://github.com/Penguin4Games/learn-to-fly-1)
 
-Learn to Fly 2
+[Learn to Fly 2](https://github.com/Penguin4Games/learn-to-fly-2)
 
 Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1) to request them.
 
