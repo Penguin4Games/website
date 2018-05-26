@@ -11,7 +11,7 @@ A website that has video games.
 ## Info
 
 Request games [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1).
-Let us know of any places that have blocked us [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/2).
+Let us know of any places that have blocked us [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/5).
 
 ## How to Play
 
