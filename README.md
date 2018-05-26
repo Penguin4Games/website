@@ -14,7 +14,7 @@ Request games [here](https://github.com/Penguin4Games/Penguin4Games.github.io/is
 
 ## How to Play
 
-Make sure Flash is installed. You can install it [here](https://get.adobe.com/flashplayer/). (NOTE: Clicking the link in Chrome will ask you to run Flash. If you really want to install it, press Yes, then click (here)[https://get.adobe.com/flashplayer/] again, but Chrome already has Flash included, so this shouldn't matter.) Then, run the games. Voila!
+Make sure Flash is installed. You can install it [here](https://get.adobe.com/flashplayer/). (NOTE: Clicking the link in Chrome will ask you to run Flash. If you really want to install it, press Yes, then click [here](https://get.adobe.com/flashplayer/) again, but Chrome already has Flash included, so this shouldn't matter.) Then, run the games. Voila!
 
 ## Game List
 
