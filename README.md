@@ -18,7 +18,7 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 
 ## Game List
 
-Flappy Bird
+[Flappy Bird](https://github.com/Penguin4Games/flappy-bird)
 
 Learn to Fly 1
 
