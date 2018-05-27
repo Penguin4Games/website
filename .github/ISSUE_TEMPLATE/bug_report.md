@@ -3,7 +3,9 @@ name: Bug report
 about: Create a report to help us improve
  
 ---
- 
+
+***Please only use this if the bug is not related to a game. If the bug is related to a game, please report it here: https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1***
+
 **Describe the bug**
 A clear and concise description of what the bug is.
  
