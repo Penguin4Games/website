@@ -12,7 +12,7 @@ A website that has video games.
 
 Request games [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1).
 Let us know of any places that have blocked us [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/5).
-
+Let us know if any games are broken [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/6).
 ## How to Play
 
 Make sure Flash is installed. You can install it [here](https://get.adobe.com/flashplayer/). (NOTE: Clicking the link in Chrome will ask you to run Flash. If you really want to install it, press Yes, then click [here](https://get.adobe.com/flashplayer/) again, but Chrome already has Flash included, so this shouldn't matter.) Then, run the games. Voila!
