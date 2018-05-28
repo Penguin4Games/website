@@ -27,6 +27,8 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 
 [Run 3](https://github.com/Penguin4Games/run-3)
 
+[Super Mario 63](https://github.com/Penguin4Games/super-mario-63)
+
 [The Impossible Quiz 1](https://github.com/Penguin4Games/the-impossible-quiz-1)
 
 [The Impossible Quiz 1 Demo](https://github.com/Penguin4Games/the-impossible-quiz-1-demo)
@@ -40,8 +42,6 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 [The Impossible Quiz Book Chapter 3](https://github.com/Penguin4Games/the-impossible-quiz-book-chapter-3)
 
 [The Impossible Quizmas](https://github.com/Penguin4Games/the-impossible-quizmas)
-
-[Super Mario 63](https://github.com/Penguin4Games/super-mario-63)
 
 Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1) to request them.
 
