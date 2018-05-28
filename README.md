@@ -41,6 +41,8 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 
 [The Impossible Quizmas](https://github.com/Penguin4Games/the-impossible-quizmas)
 
+[Super Mario 63](https://github.com/Penguin4Games/super-mario-63)
+
 Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1) to request them.
 
 ## Changelog
