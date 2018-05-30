@@ -33,6 +33,8 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 
 [The Impossible Quiz 1 Demo](https://github.com/Penguin4Games/the-impossible-quiz-1-demo)
 
+[The Impossible Quiz 1 Lite](https://github.com/Penguin4Games/the-impossible-quiz-1-lite)
+
 [The Impossible Quiz 2](https://github.com/Penguin4Games/the-impossible-quiz-2)
 
 [The Impossible Quiz Book Chapter 1](https://github.com/Penguin4Games/the-impossible-quiz-book-chapter-1)
