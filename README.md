@@ -25,6 +25,8 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 
 [Learn to Fly 2](https://github.com/Penguin4Games/learn-to-fly-2)
 
+[Line Rider](https://github.com/Penguin4Games/line-rider)
+
 [Run 3](https://github.com/Penguin4Games/run-3)
 
 [Super Mario 63](https://github.com/Penguin4Games/super-mario-63)
@@ -49,4 +51,5 @@ Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.git
 
 ## Changelog
 
-v1.0.0 - Website works, no games are working so far. Not ready for use yet.
+v1.0.0-SNAPSHOT - Website works, no games are working so far. Not ready for use yet.
+v1.0.0 - Initial release
