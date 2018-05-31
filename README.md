@@ -52,4 +52,5 @@ Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.git
 ## Changelog
 
 v1.0.0-SNAPSHOT - Website works, no games are working so far. Not ready for use yet.
+
 v1.0.0 - Initial release
