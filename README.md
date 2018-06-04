@@ -17,6 +17,7 @@ Let us know if any games are broken [here](https://github.com/Penguin4Games/Peng
 
 Make sure Flash is installed. You can install it [here](https://get.adobe.com/flashplayer/). (NOTE: Clicking the link in Chrome will ask you to run Flash. If you really want to install it, press Yes, then click [here](https://get.adobe.com/flashplayer/) again, but Chrome already has Flash included, so this shouldn't matter.) Then, run the games. Voila!
 
+If you're on iOS, try [Puffin Web Browser](https://itunes.apple.com/gb/app/puffin-web-browser-free/id472937654?mt=8)
 ## Game List
 
 [Flappy Bird](https://github.com/Penguin4Games/flappy-bird)
