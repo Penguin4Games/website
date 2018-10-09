@@ -24,28 +24,22 @@ If you're on iOS, try [Puffin Web Browser](https://itunes.apple.com/gb/app/puffi
 
 [Learn to Fly 1](https://github.com/Penguin4Games/learn-to-fly-1)
 
-[Learn to Fly 2](https://github.com/Penguin4Games/learn-to-fly-2)
+Learn to Fly 2
 
-[Line Rider](https://github.com/Penguin4Games/line-rider)
+Line Rider
 
-[Run 3](https://github.com/Penguin4Games/run-3)
+Run 3](https://github.com/Penguin4Games/run-3)
 
-[Super Mario 63](https://github.com/Penguin4Games/super-mario-63)
+Super Mario 63](https://github.com/Penguin4Games/super-mario-63)
 
-[The Impossible Quiz 1](https://github.com/Penguin4Games/the-impossible-quiz-1)
+The Impossible Quiz 1](https://github.com/Penguin4Games/the-impossible-quiz-1)
 
-[The Impossible Quiz 1 Demo](https://github.com/Penguin4Games/the-impossible-quiz-1-demo)
+The Impossible Quiz 1 Demo](https://github.com/Penguin4Games/the-impossible-quiz-1-demo)
 
-[The Impossible Quiz 1 Lite](https://github.com/Penguin4Games/the-impossible-quiz-1-lite)
+The Impossible Quiz 1 Lite](https://github.com/Penguin4Games/the-impossible-quiz-1-lite)
 
-[The Impossible Quiz 2](https://github.com/Penguin4Games/the-impossible-quiz-2)
+The Impossible Quiz 2
 
-[The Impossible Quizmas](https://github.com/Penguin4Games/the-impossible-quizmas)
+The Impossible Quizmas
 
 Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1) to request them.
-
-## Changelog
-
-v1.0.0-SNAPSHOT - Website works, no games are working so far. Not ready for use yet.
-
-v1.0.0 - Initial release
