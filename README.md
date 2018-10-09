@@ -20,23 +20,23 @@ Make sure Flash is installed. You can install it [here](https://get.adobe.com/fl
 If you're on iOS, try [Puffin Web Browser](https://itunes.apple.com/gb/app/puffin-web-browser-free/id472937654?mt=8)
 ## Game List
 
-[Flappy Bird](https://github.com/Penguin4Games/flappy-bird)
+Flappy Bird
 
-[Learn to Fly 1](https://github.com/Penguin4Games/learn-to-fly-1)
+Learn to Fly 1
 
 Learn to Fly 2
 
 Line Rider
 
-Run 3](https://github.com/Penguin4Games/run-3)
+Run 3
 
-Super Mario 63](https://github.com/Penguin4Games/super-mario-63)
+Super Mario 63
 
-The Impossible Quiz 1](https://github.com/Penguin4Games/the-impossible-quiz-1)
+The Impossible Quiz 1
 
-The Impossible Quiz 1 Demo](https://github.com/Penguin4Games/the-impossible-quiz-1-demo)
+The Impossible Quiz 1 Demo
 
-The Impossible Quiz 1 Lite](https://github.com/Penguin4Games/the-impossible-quiz-1-lite)
+The Impossible Quiz 1 Lite
 
 The Impossible Quiz 2
 
