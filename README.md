@@ -40,12 +40,6 @@ If you're on iOS, try [Puffin Web Browser](https://itunes.apple.com/gb/app/puffi
 
 [The Impossible Quiz 2](https://github.com/Penguin4Games/the-impossible-quiz-2)
 
-[The Impossible Quiz Book Chapter 1](https://github.com/Penguin4Games/the-impossible-quiz-book-chapter-1)
-
-[The Impossible Quiz Book Chapter 2](https://github.com/Penguin4Games/the-impossible-quiz-book-chapter-2)
-
-[The Impossible Quiz Book Chapter 3](https://github.com/Penguin4Games/the-impossible-quiz-book-chapter-3)
-
 [The Impossible Quizmas](https://github.com/Penguin4Games/the-impossible-quizmas)
 
 Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1) to request them.
