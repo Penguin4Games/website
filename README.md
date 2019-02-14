@@ -10,9 +10,9 @@ A website that has video games.
 
 ## Info
 
-Request games [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1).
-Let us know of any places that have blocked us [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/5).
-Let us know if any games are broken [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/6).
+Request games [here](https://github.com/Penguin4Games/website/issues/1).
+Let us know of any places that have blocked us [here](https://github.com/Penguin4Games/website/issues/5).
+Let us know if any games are broken [here](https://github.com/Penguin4Games/website/issues/6).
 ## How to Play
 
 Make sure Flash is installed, as you'll need it to play most of our games. You can install it [here](https://get.adobe.com/flashplayer/). (NOTE: Clicking the link in Chrome will ask you to run Flash. If you really want to install it, press Yes, then click [here](https://get.adobe.com/flashplayer/) again, but Chrome already has Flash included, so this shouldn't matter until 2020. By that time, we will have hopefully converted our Flash games to HTML5 so that this isn't required anymore.) Then, run the games. Voila!
@@ -55,4 +55,4 @@ Unfair Mario
 
 Sudoku
 
-Want more games? Click [here](https://github.com/Penguin4Games/Penguin4Games.github.io/issues/1) to request them.
+Want more games? Click [here](https://github.com/Penguin4Games/website/issues/1) to request them.
