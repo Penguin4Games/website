@@ -29,7 +29,7 @@ Learn to Fly 2
 
 Line Rider
 
-Run 3
+Run 3 (currently does not work, WIP)
 
 Super Mario 63
 
@@ -54,5 +54,9 @@ Unfair Mario
 2048
 
 Sudoku
+
+Super Smash Flash
+
+Super Smash Flash 2
 
 Want more games? Click [here](https://github.com/Penguin4Games/website/issues/1) to request them.
